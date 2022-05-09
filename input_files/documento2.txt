@@ -1,0 +1,17 @@
+Implemente un modelo de pago según el uso en toda su infraestructura de TI
+Datacenter Utility alinea los costos directamente con el uso, lo que le permite maximizar la flexibilidad de escalamiento y, al mismo tiempo, pagar solo por lo que utiliza**. 
+
+Data Center Utility es una forma altamente personalizable de trasladar parte de las operaciones de su centro de datos, o todas, a un modelo de pago según el uso. Proporciona el 
+portafolio de productos líderes en el mercado de Dell diseñada con la flexibilidad y el rendimiento de Intel, junto con los servicios profesionales y el soporte para administrar 
+completamente su centro de datos y sus operaciones en un pago mensual simple de factura única basado en su uso real.
+
+Lea el folleto de Data Center Utility
+Funcionamiento:
+Dimensionamiento del entorno
+Trabajaremos con usted para definir los requisitos de capacidad y las expectativas de crecimiento.
+Establecimiento de una estructura de tarifas
+Cuando se hayan identificado las soluciones requeridas, desarrollaremos una estructura de tarifas con precios coherentes basados en el uso.
+Seguimiento del uso
+Mediante el monitoreo automatizado, se registran los niveles de consumo real, y esta información se le proporciona de forma periódica para su análisis.
+Análisis mensual
+Cada mes, después de que haya aprobado los datos de uso, le proporcionaremos una factura que refleje el uso real.
