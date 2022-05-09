@@ -1,0 +1,313 @@
+BTC Datos de Precio en vivo
+Bitcoin precio de hoy es el $43,535.36 USD con un volumen de comercio de 24 horas de $36,769,720,188 USD. Actualizamos nuestro precio de BTC a USD en tiempo real. Bitcoin bajó 4.07% en las últimas 24 horas. La clasificación actual de CoinMarketCap es #1, con una capitalización de mercado de $827,390,894,252 USD. Tiene un suministro circulante de 19,005,031 BTC monedas y un suministro máximo de 21,000,000 BTC monedas.
+
+Los cambios principales para comercializar en Bitcoin son actualmente Binance, OKX, Bybit, CoinTiger, y . Puedes encontrar otros listados en nuestra .
+
+¿Qué es Bitcoin (BTC)?
+Bitcoin es una criptomoneda descentralizada presentada originalmente en un documento técnico en 2008 por una persona, o grupo de personas, utilizando el alias Satoshi Nakamoto. Se lanzó poco después, en enero de 2009.
+
+El bitcoin es una moneda en línea peer-to-peer, lo que significa que todas las transacciones ocurren directamente entre los participantes, iguales e independientes, de la red sin la necesidad de que ningún intermediario les de permiso o les facilite las operaciones. Bitcoin se creó, de acuerdo con las propias palabras de Nakamoto, para permitir que “los pagos en línea se pudieran enviar directamente de una parte a otra sin pasar por una institución financiera".
+
+Existen algunos conceptos que describen un tipo similar de moneda electrónica descentralizada antes del BTC, pero Bitcoin tiene la distinción de ser la primera criptomoneda en entrar en uso.
+
+¿Quiénes son los fundadores de Bitcoin?
+El inventor original de Bitcoin es conocido bajo un seudónimo, Satoshi Nakamoto. Aún en el 2020, la verdadera identidad de la persona (u organización) que se encuentra detrás del alias sigue siendo desconocida.
+
+El 31 de octubre de 2008, Nakamoto publicó el documento técnico de Bitcoin, en el que se describe en detalle cómo se podría implementar una moneda digital peer-to-peer. En él propusieron utilizar un libro de contabilidad descentralizado de transacciones empaquetadas en lotes (llamados "bloques") y aseguradas por algoritmos criptográficos; el sistema completo más tarde se denominaría "blockchain".
+
+Solo dos meses después, el 3 de enero de 2009, Nakamoto extrajo el primer bloque de la red Bitcoin, conocido como el bloque génesis, lanzando así la primera criptomoneda del mundo.
+
+Sin embargo, aunque Nakamoto fue el inventor original de Bitcoin, así como el autor de su primera implementación, a lo largo de los años un gran número de personas han contribuido a mejorar el software de esta criptomoneda mediante la aplicación de parches a las vulnerabilidades, y la adición de nuevas características.
+
+El archivo del código fuente de Bitcoin en GitHub lista más de 750 colaboradores, siendo algunos de los más importantes Wladimir J van der Laan, Marco Falke, Pieter Wuille, Gavin Andresen, Jonas Schnelli, entre otros.
+
+¿Qué hace que el Bitcoin sea único?
+La ventaja más singular de Bitcoin proviene del hecho de que fue la primera criptodivisa que apareció en el mercado.
+
+Ha logrado crear una comunidad global, y dar nacimiento a una industria completamente nueva con millones de entusiastas que crean, invierten, comercializan y utilizan Bitcoin y otras criptodivisas en su vida cotidiana. La aparición de esta primera criptomoneda ha creado una base conceptual y tecnológica que posteriormente inspiró el desarrollo de miles de proyectos competitivos.
+
+Todo el mercado de las criptodivisas, que ahora vale más de 300.000 millones de dólares, se basa en la idea realizada por Bitcoin: dinero que puede ser enviado y recibido por cualquier persona, en cualquier lugar del mundo, sin depender de intermediarios de confianza, como bancos y empresas de servicios financieros.
+
+Gracias a su naturaleza pionera, BTC permanece en la cima de este vibrante mercado después de más de una década de existencia. Incluso después de que Bitcoin haya perdido su dominio indiscutible, sigue siendo el criptoactivo más grande, con una capitalización de mercado que fluctuó entre 100 y 200 millones de dólares en 2020, debido en gran parte a la presencia de plataformas que proporcionan opciones de uso para BTC: carteras, intercambios, servicios de pago, juegos en línea y más.
+
+Páginas Relacionadas:
+¿Buscas datos de mercado y blockchain para BTC? Visita nuestro explorador de bloques.
+
+¿Quieres comprar Bitcoin? Usa la guía de CoinMarketCap.
+
+¿Cuántas Bitcoin hay en circulación?
+El suministro total de Bitcoin está limitado por su software y nunca superará las 21.000.000 monedas. Se pueden crear nuevas monedas durante el proceso conocido como "minería": a medida que las transacciones son retransmitidas a través de la red, son recogidas por los mineros y empaquetadas en bloques, que a su vez están protegidos por complejos cálculos criptográficos.
+
+Como compensación por gastar sus recursos computacionales, los mineros reciben recompensas por cada bloque que añaden con éxito a la cadena de bloques. Al momento de haber sido lanzado Bitcoin, la recompensa era de 50 bitcoins por bloque: este número se reduce a la mitad con cada 210.000 nuevos bloques extraídos, que son conseguidos por la red en aproximadamente cuatro años. A partir del 2020, la recompensa por bloque se ha reducido a la mitad tres veces. Actualmente comprende 6,25 monedas de Bitcoin.
+
+El Bitcoin no fue minado con antelación, lo que significa que no se han extraído ni distribuido monedas entre los fundadores antes de que estuvieran disponibles para el público. Sin embargo, durante los primeros años de existencia de BTC, la competencia entre los mineros era relativamente baja, permitiendo a los primeros participantes de la red acumular cantidades significativas de monedas a través de la minería regular. Se cree que Satoshi Nakamoto solo posee más de un millón de Bitcoins.
+
+¿Cómo es asegurada la red de Bitcoin?
+Bitcoin está asegurado por el algoritmo SHA-256, que pertenece a la familia de algoritmos de autenticación hashing SHA-2, que también es utilizado por Bitcoin Cash (BCH), así como varias otras criptodivisas.
+
+¿Dónde se puede comprar Bitcoin (BTC)?
+El Bitcoin es, en muchos aspectos, casi sinónimo de criptomoneda, lo que significa que puedes comprarlo o venderlo en prácticamente cualquier intercambio de criptomonedas, tanto por dinero fiduciario como por otras criptomonedas. Algunos de los principales mercados en los que se puede comerciar con BTC son:
+
+Binance
+Coinbase Pro
+OKEx
+Kraken
+Huobi Global
+Bitfinex
+Si eres nuevo en el mundo de los criptoactivos, usa la sencilla guía de CoinMarketCap para comprar Bitcoin.
+
+¿Cómo usar una billetera Bitcoin?
+Hay muchos tipos diferentes de billeteras Bitcoin: web, escritorio, papel, solo por nombrar algunos, pero ¿qué tipo de billetera es la más adecuada para ti?
+
+Tabla de contenidos
+
+Billeteras de software
+Billeteras web
+Billeteras de firmas múltiples
+Billeteras de escritorio
+Billeteras para móvil
+Billeteras de hardware
+Billeteras de papel
+En nuestra sección anterior, analizamos qué son las billeteras Bitcoin y cómo difieren de las cuentas bancarias tradicionales que la gente usa para realizar transacciones con sus monedas fiduciarias.
+
+A continuación nos adentramos en los diferentes tipos de billeterasBitcoin (software, hardware y papel), y en cómo utilizarlas.
+
+Además de estos tres tipos básicos, las carteras Bitcoin pueden usar tecnología de una sola clave o multisig (múltiples firmas). También se distinguen como "calientes" o "frías" según sus formas de almacenamiento: una billetera caliente está conectada a Internet, mientras que una billetera fría funciona de manera completamente offline.
+
+Billeteras de software
+Las carteras de software abarcan las carteras web, de escritorio y móviles.
+
+Billeteras web
+Una cartera web permite a los usuarios interactuar con la cadena de bloques BTC a través de una interfaz de navegador web, y aloja sus claves privadas y otras "credenciales" en un servidor en línea. Por esta razón, una cartera web también es una cartera caliente.
+
+Muchas carteras web son alojadas por un tercero, como un mercado de intercambio de criptomonedas, que permite a los usuarios almacenar e intercambiar fácilmente sus criptomonedas en una única interfaz.
+
+Crear una cuenta de usuario en un mercado de intercambio de criptomonedas normalmente generará automáticamente una billetera BTC para el usuario y, en algunos casos, una serie de billeteras adicionales para cada una de las criptomonedas que se pueden negociar dentro de la plataforma exchange.
+
+Los pros de un monedero hospedado en un mercado de intercambio son su conveniencia, facilidad de uso, e integración con la funcionalidad de trading en la bolsa.
+
+La configuración de una cuenta es similar a crear una cuenta para un servicio en línea, aunque los usuarios normalmente necesitarán completar los campos de Know Your Customer(KYC) subiendo al formulario una copia de su identificación oficial.
+
+Sin embargo, las carteras web alojadas generalmente implican que las claves de los usuarios son gestionadas por un tercero, lo que las hace vulnerables a ciberataques, como ataques de intercambio, o estafas.
+
+Por esta razón, es importante hacer pleno uso de todas las herramientas de seguridad proporcionadas por el proveedor de intercambio o billetera web, incluida la autenticación de dos o múltiples factores para poder iniciar sesión, la gestión de los datos de acceso para hacer retiros, o las herramientas antiphishing.
+
+Para satisfacer las necesidades de los usuarios que no quieren ceder el control sobre sus claves a un tercero, algunas carteras web también se han convertido en monederos multisig.
+
+Billeteras de firmas múltiples
+Multisig es la abreviatura en inglés del término "multifirma" que se refiere a un tipo de tecnología de firma digital que permite que dos o más usuarios firmen digitalmente una transacción.
+
+Un monedero Bitcoin estándar (web o de otro tipo) utiliza tecnología de clave única, lo que significa que se requiere una clave privada correspondiente a cada cuenta para acceder a los fondos.
+
+Por el contrario, los monederos multisig se crean para que más de una persona de confianza pueda autenticar transacciones, o para acceder a los fondos de la billetera.
+
+La tecnología multisig ayuda a mitigar las fallas de seguridad asociadas con una sola clave. El multisig también puede ayudar a las empresas a administrar sus billeteras empresariales o ser utilizadas para transacciones de depósito.
+
+Billeteras de escritorio
+Una billetera de escritorio es diferente a una billetera web ya que depende del software que un usuario descarga, y opera localmente en su computadora. Las carteras de escritorio ofrecen a los usuarios un control total sobre sus claves, que se almacenan como un archivo wallet.dat.
+
+Por motivos de seguridad, es recomendable proteger con contraseña el acceso a este archivo y garantizar que tu equipo no tenga virus ni malwares antes de instalar y configurar una billetera para escritorio.
+
+También es importante hacer una copia de seguridad del archivo wallet.dat o exportar la clave correspondiente o frase semilla, que será necesaria para recuperar tus fondos en caso de que tenga problemas con tu computadora en el futuro.
+
+Billeteras para móvil
+Las billeteras móviles, como su nombre sugiere, funcionan a través de una aplicación para smartphone y se pueden configurar fácilmente para admitir transacciones diarias de Bitcoin utilizando códigos QR. Algunas billeteras móviles son la versión app de una cuenta en línea de un mercado de intercambio y, por lo tanto, están vinculadas al mismo inicio de sesión de usuario, billetera y cuenta.
+
+Similar a las carteras web y de escritorio, los usuarios de monederos móviles deben estar alerta sobre los riesgos de las aplicaciones maliciosas o malwares, así como tener cuidado de hacer copias de seguridad de sus claves privadas o frase semilla si utilizan una cartera móvil que les permita administrar sus propias claves.
+
+Billeteras de hardware
+Como hemos visto, las carteras de software más convenientes pueden ser vulnerables a los riesgos de seguridad asociados con los servicios en línea y/o proveedores de terceros centralizados.
+
+Por esta razón, los usuarios que buscan almacenar de forma segura sus criptomonedas durante un largo tiempo (HODLers) a menudo usan una billetera de hardware, que es "fría" ya que no está conectada a Internet, y eso les ofrece una alternativa más segura.
+
+Una billetera de hardware suele ser un pequeño dispositivo electrónico físico que utiliza un generador de números aleatorios (RNG) para generar las claves públicas y privadas correspondientes de la cartera.
+
+Una cartera de hardware a menudo permite a los usuarios configurar un código PIN de seguridad para proteger el acceso al dispositivo, así como una frase de recuperación, a veces llamada semilla mnemotécnica, para tener acceso a la billetera en caso de que olvides el PIN.
+
+Esta clave mnemotécnica suele ser una frase de recuperación de 24 palabras que sirve como respaldo para las claves privadas de la cartera de hardware.
+
+Aunque las carteras de hardware son un poco más difíciles de usar que sus homólogos de software, se consideran la forma más segura de almacenar criptomonedas, ya que son inmunes a ciberataques y malwares informáticos. Muchos modelos conocidos de monedero de hardware vienen con una aplicación de escritorio complementaria que proporciona una interfaz fácil de usar.
+
+Algunas carteras de hardware también se pueden conectar a intercambios descentralizados o billeteras web, ayudando a los usuarios a superar los problemas de accesibilidad y la falta de integración con las funcionalidades de trading.
+
+Billeteras de papel
+Una billetera de papel es otra forma de almacenamiento en frío. Es literalmente un pedazo de papel en el que se imprimen una dirección de billetera Bitcoin, y su correspondiente clave privada, en forma de códigos QR.
+
+Aunque están protegidas contra los riesgos asociados con las carteras calientes, las carteras de papel tienen inconvenientes significativos. Además de ser físicamente delicadas (los lectores pueden usar su imaginación aquí), también limitan las funciones de los usuarios al transferir todo el saldo de la cartera a la vez.
+
+Para poder gastar solo una parte de las existencias de la cartera de papel, los usuarios necesitan transferir la totalidad de su saldo a un tipo diferente de billetera (web, escritorio o hardware) y luego gastar una parte de su saldo desde allí.
+
+Además, los usuarios corren el riesgo de que si intentan transferir solo una parte del saldo de su cartera impresa a otra cartera, los fondos restantes, de forma predeterminada, se enviarán a lo que se conoce como un "cambio de dirección" en el protocolo Bitcoin. No permanecerán en la billetera original en papel: un malentendido que pone a los usuarios en riesgo de perder sus fondos si no se aseguran de especificar una nueva billetera en papel para el cambio.
+
+¿Cómo crear una dirección Bitcoin?
+De la misma forma que una dirección de correo electrónico asegura que tu mensaje llegue a la persona adecuada, una dirección de Bitcoin garantiza que tu criptomonedas se envíen de forma segura.
+
+Tabla de contenidos
+
+¿Qué es una dirección Bitcoin?
+¿Cómo funciona la generación de direcciones?
+¿Dónde puedo almacenar una dirección Bitcoin?
+Consejos rápidos para mantener seguras tus criptomonedas
+Así que has decidido comprar Bitcoin, ¿no? ¡Pero espera! ¿Qué es todo lo que necesitas saber antes de elegir una dirección de Bitcoin? ¿Es necesaria una clave privada? ¿Dónde encaja una cartera de Bitcoin en todo esto? Aquí está nuestra guía definitiva (y simple) para crear una dirección de criptomoneda.
+
+¿Qué es una dirección Bitcoin?
+De la misma forma que una dirección de correo electrónico asegura que tu mensaje llegue a la persona correcta, una dirección Bitcoin es crucial para garantizar que tu criptomoneda se abra un camino seguro a través de la cadena de bloques.
+
+Una clave pública es un fragmento de código criptográfico que te permite enviar y recibir BTC, y en algunos casos, esta clave viene en forma de código QR.
+
+Afortunadamente, no necesitas un Doctorado en Informática para empezar a usar la red Bitcoin. La mayoría de los mercados de intercambios y carteras crearán para ti de forma automática una dirección cuando hayas comprado algo de Bitcoin.
+
+¿Cómo funciona la generación de direcciones?
+Lo más aterrador de una nueva dirección puede ser cuán larga es: entre 26 y 35 caracteres alfanuméricos. Una dirección BTC comienza con "1," "3" o "bc1. "
+
+Las transacciones con bitcoin no pueden ser canceladas ni revocadas, al igual que una transferencia de cuenta bancaria; esto que significa que es crucial verificar dos veces el formato de la dirección antes de enviarla.
+
+Si los pagos de Bitcoin se envían a la billetera de criptomonedas incorrecta, es posible que te enfrentes a una lucha cuesta arriba para conseguir que el propietario te envíe los fondos de vuelta.
+
+¿Dónde puedo almacenar una dirección Bitcoin?
+Mantener seguras tus claves privadas y públicas es muy importante, por lo que existen varias formas de proteger tus Bitcoins de personas con malas intenciones.
+
+Mercados de Intercambios BTC : plataformas como Coinbase y Binance ofrecen una experiencia intuitiva y familiar que es como iniciar sesión en una cuenta PayPal o banca en línea. Estas carteras móviles están disponibles en Android e iOS, y proporcionan un historial de transacciones completo. Sumado a todo eso, cuentan con frases de contraseña y la autenticación de dos factores para ayudar a mantener tu cuenta segura.
+
+Cartera de hardware: una desventaja de las billeteras de blockchain en línea es el riesgo de que tu BTC pueda ser robado si se almacena en una billetera "caliente" conectada a Internet. Una cartera de hardware minimiza ese riesgo, ya que supone que tus monedas están cifradas y almacenadas en un dispositivo físico, fuera de Internet con un almacenamiento en frío. Muchos de estos productos también admiten otras criptomonedas, incluido el Ethereum.
+
+Monederos de papel: si eres de los que prefiere las cosas a la antigua, puedes escribir tu dirección Bitcoin en una hoja de papel o imprimirla. Este tipo de almacenamiento de claves privadas no está libre de riesgos. Si pierdes tu billetera de papel, tus BTC podrían perderse para siempre.
+
+Consejos rápidos para mantener seguras tus criptomonedas
+Ten en cuenta que si tuvieras 50.000 dólares, no lo guardarías todo en tu billetera de uso diario. Entonces, ¿por qué tus BTC deberían ser diferente?
+
+Usar más de una dirección Bitcoin, lo que significa que tu criptomoneda no está en un solo lugar, puede ser un movimiento inteligente.
+
+Los monederos móviles son excelentes para guardar una pequeña cantidad de Bitcoin si estás fuera de casa y deseas hacer una compra, pero se recomienda confiar en una billetera de hardware de vanguardia para almacenar de forma segura los fondos que no necesitas para su uso diario. ¡Tenemos una breve guía que te ayudará a mantener seguras tus criptomonedas, para más detalles, aquí!
+
+¿Cómo enviar Bitcoin?
+Ahora que has comprado y vendido un poco de Bitcoin, es hora de aprender a hacer algo un poco diferente: enviar Bitcoin.
+
+Tabla de contenidos
+
+Monederos Bitcoin
+Envío de Bitcoin: algunos puntos importantes
+¿Qué es una Mempool?
+Bitcoin (BTC) es un sistema electrónico de efectivo entre personas que no requiere un intermediario, lo que permite a los usuarios realizar transacciones directamente sin importar las fronteras. Para enviar Bitcoin, los usuarios deben familiarizarse con la infraestructura básica que se requiere para las transacciones de Bitcoin.
+
+Monederos Bitcoin
+Para enviar Bitcoin (BTC), los usuarios necesitan de un monederoBitcoin; una herramienta para interactuar con la cadena de bloquesde Bitcoin.
+
+Aunque es común hablar metafóricamente de cómo las billeteras de BTC "almacenan" las criptodivisas de los usuarios, es más preciso decir que las billeteras de Bitcoin se utilizan para generar la información necesaria que permite enviar y recibir criptomonedas a través de transacciones de blockchain.
+
+Hay tres tipos principales de billeteras Bitcoin — software, hardware y papel — que difieren en su funcionalidad y seguridad. Dependiendo de si una billetera Bitcoin está o no conectada a Internet, también se clasifica como monederos "calientes" o "fríos".
+
+Un usuario puede enviar Bitcoin a otro usuario como una forma de pago o negociación, o puede enviar BTC entre las diferentes billeteras de Bitcoin que usa para varios propósitos (es decir, para comerciar criptomonedas o para poner en práctica el HODLing).
+
+Cualquier billetera se puede usar para enviar Bitcoin a cualquier otra dirección (software, hardware o papel), siempre y cuando esa dirección sea específicamente una billetera Bitcoin y no una cartera diseñada para una criptomoneda diferente, por ejemplo: Ethereum (ETH), Bitcoin Cash (BCH) o XRP.
+
+Envío de Bitcoin: algunos puntos importantes
+El proceso exacto de envío de BTC varía según el tipo de cartera y proveedor que elijas utilizar.
+
+En todos los casos, deberás definir la cantidad de Bitcoin que deseas enviar, utilizando la interfaz proporcionada, ya sea una aplicación móvil, una aplicación de escritorio, el navegador web o un cajero automático Bitcoin.
+
+También necesitarás saber o tener acceso a la dirección de la cartera del destinatario, que se introducirá como dirección de destino para la transferencia.
+
+Ten en cuenta que un solo usuario puede usar su billetera Bitcoin para generar múltiples direcciones de billeteras nuevas, cada una de las cuales se empareja con tu clave privada. Esta clave privada permanece constante y debe mantenerse estrictamente confidencial, mientras que una dirección de billetera asociada será visible públicamente para cualquier persona en la cadena de bloques de Bitcoin.
+
+Para simplificar el proceso, algunos proveedores de monedero de software (y papel) permiten a los usuarios escanear un código QR para acceder a la dirección del destinatario. Algunos proveedores de cartera incluso permiten a los usuarios introducir una dirección de correo electrónico vinculada a la dirección de la cartera del destinatario.
+
+Si no se admite un código QR o un correo electrónico, deberás verificar cuidadosamente los caracteres alfanuméricos que componen la dirección de Bitcoin del destinatario para asegurarte de que la información es correcta, tal como lo harías si enviarás dinero a la cuenta bancaria de otra persona.
+
+Ten en cuenta que cuando el mismo usuario envía Bitcoin entre dos billeteras de software que están alojadas en un mercado de intercambio de criptomonedas, por ejemplo, entre las carteras Coinbase y Coinbase Pro Bitcoin — la función de envío de Bitcoin podría ser identificada como una función de depósito o recepción de Bitcoin.
+
+Cuando se trata de enviar BTC desde una cartera de hardware (por ejemplo, un Ledger Nano S), los usuarios suelen usar una aplicación de escritorio que les permita interactuar con el dispositivo de hardware.
+
+Una variable a tener en cuenta cuando se trata de enviar BTC es que los usuarios a veces son capaces de elegir qué tan alta será la tarifa de transacción para la transferencia. Normalmente, cuanto menor sea la comisión por transacción, más tiempo tardará la transacción de Bitcoin en confirmarse dentro de la cadena de bloques de Bitcoin.
+
+¿Qué es una Mempool?
+Mientras investigas cómo funcionan las transacciones de Bitcoin, es posible que te encuentres con el término "mempool", que es una abreviatura para "memory" y "pool".
+
+Un mempool es un registro de todas las transacciones BTC que aún no han sido validadas por un minero y agregadas al siguiente bloque en la blockchain. Un mempool se almacena temporalmente en cada nodo individual de la red y, metafóricamente hablando, funciona como una especie de zona de influencia o sala de espera para transacciones pendientes de Bitcoin.
+
+Las transacciones de Mempool se compensan periódicamente cada vez que se agrega un nuevo bloque a la cadena de bloques. Las transacciones pendientes que esperan en mempools solo se compensarán (procesarán) una vez que alcancen el umbral mínimo de la comisión por transacción.
+
+Las transacciones de menor prioridad (es decir, aquellas con una tarifa baja) en el mempool, a menudo tendrán que "esperar" más de un bloque hasta que se procesen y confirmen.
+
+¿Cómo minar Bitcoins?
+Si bien es cierto que ya no se puede minar Bitcoin en casa, todavía hay formas de participar en la minería de criptomonedas sin tener que pagar de más.
+
+Tabla de contenidos
+
+¿Cómo funcionan las transacciones en Bitcoin Network?
+¿Qué es la tasa de hash?
+¿Qué es un equipo de minería Bitcoin?
+Los principales tipos de plataformas mineras
+Las alternativas: minería de grupos y minería en la nube
+¿Deberías comenzar a minar Bitcoins?
+¿Qué oportunidades de minería de altcoin existen?
+Minar BTC se ha vuelto mucho más difícil a lo largo de los años. Al comienzo de la era de las criptomonedas, prácticamente cualquier persona con una computadora portátil podía minar nuevas monedas, recibiendo una recompensa de 50 BTC cuando verificaban un nuevo bloque de transacciones luego de resolver complejos problemas matemáticos. (Esta recompensa de bloque puede que solo haya valido $50 en ese momento, pero nadie sabía cuánto podría valer esta moneda digital el futuro).
+
+Hoy en día, la vida no es tan fácil para los mineros de Bitcoin. Las recompensas de bloque se han reducido a la mitad de forma recurrente, al menos cada par de años — el número de bitcoins que entran en circulación se ha reducido a solo 6,25 BTC por bloque. No obstante, las transacciones de Bitcoin aún deben validarse, lo que significa que las comisiones por transacción se han convertido en una fuente vital de sus ingresos.
+
+Aquí, vamos a explicar cómo funciona la minería de Bitcoin, exploraremos cuánta potencia informática se necesita para mantener la cadena de bloques en funcionamiento y ver algunos de los otros sistemas de prueba de trabajo donde se puede sacar provecho del hardware de minería.
+
+¿Cómo funcionan las transacciones en Bitcoin Network?
+Antes de que nos sumerjamos en la tecnología asociada con la producción de nuevos Bitcoins, descubramos, de una manera realmente simple, cómo se extrae un bloque de Bitcoin.
+
+Como probablemente ya sabrás, la cadena de bloques es el hogar de los registros completos de las transacciones de Bitcoin; incluso guarda información de cuando se minó el primer bloque en 2009. A lo largo de los años, se ha creado una cadena de bloques, lo que significa que las transacciones pasadas son prohibitivamente difíciles de editar. Para modificar los datos de las transacciones, cada bloque que viniera después tendría que recalcularse, y eso tomaría una cantidad insana de datos informáticos.
+
+Uno de los mayores beneficios de un libro mayor público es cómo ayuda a prevenir el doble gasto, evitando que el mismo Bitcoin se use dos veces al mismo tiempo. El papel moneda evita el doble gasto porque físicamente tienes que entregar 50 dólares antes de conseguir un videojuego, lo que significa que no puedes ir a la tienda de al lado y usar el mismo billete para conseguir también zapatos.
+
+Pero no nos desviemos del tema, volvamos al proceso de minería BTC. Cada 10 minutos se crea un nuevo bloque. Esto significa que, aproximadamente seis veces por hora, los mineros de Bitcoin están involucrados en una competencia masiva para recibir una recompensa de bloque.
+
+La minería requiere mucha potencia informática, y la persona afortunada que puede validar un bloque tendrá que haber resuelto un problema matemático antes que el resto de la red. (Esta es la razón por la que se usa la prueba de trabajo, ya que la gran cantidad de potencia de procesamiento implicada ayuda a prevenir ataques de denegación de servicio).
+
+Resolver el rompecabezas dará paso a que se forme un nuevo bloque, con un tamaño de 1MB. Las transacciones de Bitcoin que están esperando a ser confirmadas se recogen de una mempool (memoria temporal). Es probable que el sistema minero de Bitcoin le dé prioridad a los usuarios de Bitcoin que estén dispuestos a pagar altas tarifas en su bloque de transacciones.
+
+El nuevo bloque también incluye algo conocido como "transacción de Coinbase". Así es como los mineros de Bitcoin cobran la recompensa de BTC 6,25 por sus esfuerzos, junto con las comisiones por transacción de cada pago incluido en su bloque.
+
+¡Guau! Es mucho lo que puede pasar en solo 10 minutos. Ahora que tenemos una idea aproximada de cómo funciona la minería BTC, vamos a entrar en lo más importante. Tal vez quieras una taza de café para la próxima parte.
+
+¿Qué es la tasa de hash?
+La tasa de hash actualmente es un barómetro crucial de la salud de la cadena de bloques de Bitcoin. En resumen, es un análisis general de cuánta potencia de procesamiento se encuentra actualmente en la red Bitcoin.
+
+Para hacer corto un cuento largo, la tasa de hash nos dice cuánta potencia informática están dispuestos a dedicar los mineros de Bitcoin para procesar bloques de transacciones. Cuanto mayor sea el nivel de potencia del hash, más segura será la cadena de bloques.
+
+Para garantizar que la minería de criptomonedas esté sucediendo de manera consistente, con un nuevo bloque surgiendo cada 10 minutos o más, la dificultad de minería en la cadena de bloques se ajusta regularmente, aproximadamente cada dos semanas. Si la tasa de hash estuviera en un nivel alto, pero los problemas matemáticos necesarios para obtener recompensas de bloque fueran demasiado fáciles, el nuevo BTC entraría en circulación demasiado rápido. (Los cálculos que son demasiado altos crearían problemas similares).
+
+La siguiente sección de nuestra deslumbrante guía analiza el kit que se requiere para minar Bitcoin con éxito.
+
+¿Qué es un equipo de minería Bitcoin?
+En resumen, una plataforma minera es una instalación de alta gama diseñada específicamente para la extracción de nuevos Bitcoins.
+
+Estas unidades de procesamiento de vanguardia tienen como objetivo ofrecer las tasas de hash más altas posibles, ya que esto da a los mineros una mayor oportunidad de ser los primeros en resolver los problemas matemáticos.
+
+Varias compañías producen hardwares de minería Bitcoin, y como alternativa también es posible construir el tuyo propio. Los costos de electricidad son otra cosa que se deben considerar, ya que de lo contrario el gasto de tu consumo de energía podría superar el valor de cualquier recompensa de bloque que recibas.
+
+Los principales elementos de un equipo de minería Bitcoin son la tarjeta madre, una tarjeta gráfica confiable (Nvidia y AMD son los dos proveedores principales), una fuente resistente de energía, un accesorio de refrigeración para evitar que tu infraestructura se sobrecaliente, un procesador confiable, y un marco robusto para mantener unido el equipo y protegido del polvo.
+
+Los principales tipos de plataformas mineras
+Vamos a repasar algunos de los equipos de minería más comunes. Cada tipo de hardware de minería Bitcoin viene con pros y contras.
+
+Minería ASIC. Esto significa circuito integrado de aplicación específica. Estos dispositivos han sido construidos con la única intención de minar Bitcoin y otras criptomonedas. Este hardware viene en una variedad de formas, y algunos kits son mucho más caros que otros. Son especialmente beneficiosos debido a que ofrecen niveles excepcionales de potencia informática mientras minimizan los costos de consumo eléctrico.
+
+Minería Scrypt. Esta forma de minería es especialmente popular en la cadena de bloques Litecoin. Está diseñada para servir como una mejora del algoritmo de hash SHA-256. A través de Scrypt, los mineros necesitan generar números aleatorios lo más rápido posible y almacenarlos en una memoria RAM. Este enfoque es especialmente amigable para los mineros con GPU, porque puede crear un campo de juego equitativo al disminuir la ventaja que tienen los mineros de ASIC.
+
+Minería de GPU. Este parece ser el enfoque más popular entre las granjas mineras. Aquí, las tarjetas gráficas se utilizan para extraer datos de la cadena de bloques. Aunque son eficaces, las tarjetas gráficas pueden ser extremadamente caras y pueden quedar obsoletas rápidamente a medida que cambian los estándares de uso. También representan un alto costo de mantenimiento, lo que significa es necesario contar con un servicio de electricidad confiable, y con un accesorio de enfriamiento para garantizar su funcionalidad.
+
+Minería de CPU. En términos generales, esto implica la extracción de criptomonedas desde tu computadora. Es un enfoque simple y económico de adoptar, pero desafortunadamente, es poco práctico cuando se trata de minar BTC. Este método funciona mejor para altcoins, y en algunos casos, puedes encontrar softwares de minería que se ejecutan en segundo plano y utilizan energía informática sobrante para minar criptodivisas.
+
+Las alternativas:
+Grupos de minería y Minería en la nube
+
+Hay alternativas para no derrochar dinero en todos estos equipos de alta tecnología. Como su nombre indica, los grupos de minería implican combinar tu potencia informática con la de otros, todo con la esperanza de aumentar las posibilidades de que verifiquen un nuevo bloque. Si tienen éxito, la recompensa del bloque se divide entre todos los miembros del grupo.
+
+Otra alternativa es la minería en la nube. En lugar de contar tú mismo con todo el hardware necesario de minería de Bitcoin, en este caso compras potencia de procesamiento de granjas de minería remotas. Esto es comparable a invertir en una operación sofisticada, donde recibes una parte de cualquier ganancia que se obtenga. Aunque existen empresas legítimas que venden potencia para minar de esta manera, es necesario estar atento a posibles estafas. A pesar de que este proceso requiere poco mantenimiento de tu parte, recuerda que es posible que tengas que firmar un contrato de larga duración con altas tarifas mensuales. Esto puede acabar consumiendo tus ganancias, y es posible que termines generando pérdidas.
+
+¿Deberías comenzar a minar Bitcoins?
+Lamentablemente, la minería de Bitcoin dista mucho de ser sencilla. Utiliza una cantidad exagerada de electricidad. (Para poner esto en contexto, la cadena de bloques consume hasta 68,13 Terawatt por hora cada año; ese es el equivalente al consumo energético de la República Checa, un país con 10,7 millones de personas. Una sola transacción consume el equivalente a la electricidad que un hogar típico de los Estados Unidos usaría en 20 días. Según la investigación de Digiconomist).
+
+La minería de Bitcoins puede ser rentable, especialmente en áreas donde la electricidad es bastante barata. Los niveles de rentabilidad también se rigen por el precio actual de Bitcoin. Recurrir a todo este esfuerzo puede no valer realmente la pena si el BTC solo tiene un valor de $4.000. Involucrarse cuando la dificultad de la minería es baja también ofrece una mayor probabilidad de conseguir buenas ganancias en criptomonedas.
+
+¿Qué oportunidades de minería de altcoin existen?
+Cabe destacar que también puedes sacarle provecho a tu hardware de minería en blockchains más pequeñas. (Dicho esto, vale la pena recordar que la cadena de bloques de Ethereum está eliminando el mecanismo de consenso de prueba de trabajo, y esto significa que en unos pocos meses el ETH ya no podrá ser minado).
+
+Dogecoin es un ejemplo de un altcoin que utiliza la minería Scrypt, lo que significa que no es compatible con el hardware de minería de Bitcoin SHA-256. Esta criptomoneda que nació como una "broma" también se ha convertido en un desafío para minar mediante una CPU, lo que significa que es posible que debas invertir en un equipo de minería ASIC. (Ten en cuenta que podría no haber mucho espacio para el crecimiento de los precios de esta criptomoneda, dada la forma en que DOGE se cotiza por una fracción de un centavo).
+
+Entre las alternativas a estas altcoins se encuentran Litecoin, Monero y Zcash, las cuales dependen de un mecanismo de consenso de prueba de trabajo.
