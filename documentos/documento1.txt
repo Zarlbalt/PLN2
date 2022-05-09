@@ -1,0 +1,3 @@
+Para poder pedredecir algun suceso que pueda llegar a pasar se esta tratando de que la IA,
+inteligencia artificial sea capas de pedredecir pero llegar a ser bastante complicado por que se puede
+utilizar un algoritmo que sea supervisado.
